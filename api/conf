@@ -1,0 +1,5 @@
+export OS_USERNAME=admin
+export OS_PASSWORD=root
+export OS_TENANT_NAME=admin
+export OS_AUTH_URL=http://10.25.13.127:5000/v2.0/
+export OS_COMPUTE_API_VERSION=2
